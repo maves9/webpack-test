@@ -4,7 +4,7 @@ This webpack is set for TypeScript and SCSS
 
 ### To install
 
- - download and install git and node.js
+ - download and install [Git](https://git-scm.com/) and [node.js](https://nodejs.org/en/)
  - unzip and open folder
  - right click on the folder and click Git Bash Here
  - type in the following:
