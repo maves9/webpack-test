@@ -12,4 +12,6 @@ This webpack is set for TypeScript and SCSS
  - `npm install`
 
 ### To compile
- - type `webpack --watch` to compile your work when you save it 
+ - type `webpack` to compile your work 
+ - type `webpack --watch` to compile your work whenever you save it
+ - NOTE: keep an eye out for errors in the terminal
