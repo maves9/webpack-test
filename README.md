@@ -5,7 +5,7 @@ This webpack is set for TypeScript and SCSS
 ### To install
 
  - download and install [Git](https://git-scm.com/) and [node.js](https://nodejs.org/en/)
- - unzip and open folder
+ - unzip and open this folder
  - right click on the folder and click Git Bash Here
  - type in the following:
  - `npm install webpack -g`  
